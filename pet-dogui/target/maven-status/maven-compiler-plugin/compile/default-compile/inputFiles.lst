@@ -1,0 +1,12 @@
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/model/Pet.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/service/repository/ServicoRepository.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/model/Pessoa.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/utils/ConnectionFactory.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/model/enums/PorteEnum.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/model/Endereco.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/service/ServicoService.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/resources/ServicosResource.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/model/enums/GeneroEnum.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/model/ErroValidacao.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/model/Servico.java
+/Users/andersonbosing/NetBeansProjects/pet-dogui/src/main/java/br/unipar/pet/dogui/PetDoguiApplication.java
